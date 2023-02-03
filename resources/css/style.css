@@ -1,0 +1,86 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+
+.headline{
+    padding-top:1.562rem;
+    text-align: center;
+}
+
+.headline a{
+    font-size: 3.125rem;
+}
+
+.download{
+    padding-top:1.562rem;
+    text-align: center;
+}
+
+.download a{
+    text-decoration: underline;
+    cursor: pointer;
+    color:aquamarine;
+}
+
+.container{
+    text-align: center;
+}
+
+video{
+    padding-top:1.562rem;
+    display:block;
+    margin:auto;
+    background-color: black;
+}
+
+.personal{
+    text-align: center;
+}
+
+.personal a{
+    padding-top:1.562rem;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+h3{
+    text-align: center;
+    color:gray;
+}
+
+.camping{
+    display:flex;
+    justify-content: center;
+}
+
+.phone{
+    display: flex;
+    justify-content: center;
+}
+
+.phone img{
+    padding-top:1rem;
+}
+
+.soon{
+    padding-top:1.562rem;
+    text-align: center;
+}
+
+.soon a{
+    
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.copyProtection{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.copyProtection a{
+    color:gray;
+}
